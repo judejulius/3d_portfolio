@@ -25,7 +25,7 @@ import {
     tailwindcss,
     threads,
     typescript
-} from "../assets/icons";
+} from "../public/icons";
 
 export const skills = [
     {
